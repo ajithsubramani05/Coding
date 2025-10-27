@@ -1,3 +1,7 @@
+
+/*
+                          2D array creating element
+ */
 package org.example;
 import java.util.*;
 public class twodarray {
